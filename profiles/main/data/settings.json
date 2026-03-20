@@ -1,0 +1,18 @@
+{
+    "AI.toolcall.v2.ide.command.mode": "whitelist",
+    "AI.toolcall.v2.solo.command.mode": "whitelist",
+    "editor.mouseWheelZoom": true,
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "clangd.path": "c:\\Users\\Enhao\\AppData\\Roaming\\Trae\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\21.1.8\\clangd_21.1.8\\bin\\clangd.exe",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.colorTheme": "dark-jetbrains-color-theme",
+    "MATLAB.installPath": "G:\\MATLAB\\R2024b",
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+}

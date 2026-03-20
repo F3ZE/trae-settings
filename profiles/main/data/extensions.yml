@@ -1,0 +1,29 @@
+disabled: []
+enabled:
+  - id: Anan.jetbrains-darcula-theme
+    uuid: f6c61e3b-6055-461e-9798-1b3e4baccb18
+  - id: ardonplay.vscode-jetbrains-icon-theme
+    uuid: 96b279e1-e30f-4d34-bad2-f1a5f5e314dc
+  - id: chrisatwindsurf.language-matlab
+    uuid: eef21e87-7fe7-499a-8015-95340ae7b18d
+    version: 1.3.3
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: fogio.jetbrains-color-theme
+    uuid: 6062044f-c34f-4006-a296-b2b81e038406
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: k--kato.intellij-idea-keybindings
+    uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
